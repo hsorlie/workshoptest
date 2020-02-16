@@ -92,7 +92,7 @@ resultat <- 2 + 2
 
 ```
 
-Resultatet av analysene var at 'r resultat' var riktige.
+Resultatet av analysene var at `r printnum(resultat)` var riktige.
 
 # Results
 
