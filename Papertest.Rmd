@@ -85,6 +85,14 @@ We report how we determined our sample size, all data exclusions (if any), all m
 ## Data analysis
 We used `r cite_r("r-references.bib")` for all our analyses.
 
+```{r}
+# Her kommer det noen analyser
+
+resultat <- 2 + 2
+
+```
+
+Resultatet av analysene var at 'r resultat' var riktige.
 
 # Results
 
