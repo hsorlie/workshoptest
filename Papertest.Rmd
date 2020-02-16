@@ -73,6 +73,8 @@ knitr::opts_chunk$set(cache.extra = knitr::rand_seed)
 
 Her har vi en artikkel [@annenLongitudinalEffectsOCB2015a]. Dette er en veldig viktig artikkel. I denne artikkelen skal vi vise at ... spennende funn [@fosseActivePassiveForms2019a]. Veldig spennende. Dette har implikasjoner for teori og praksis.
 
+Her kommer det enda mer greier i innledningen. For eksempel er det spesielt relevant at tidligere studier viser at...
+
 # Methods
 We report how we determined our sample size, all data exclusions (if any), all manipulations, and all measures in the study. <!-- 21-word solution (Simmons, Nelson & Simonsohn, 2012; retrieved from http://ssrn.com/abstract=2160588) -->
 
