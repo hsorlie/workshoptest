@@ -99,7 +99,7 @@ Resultatet av analysene var at `r printnum(resultat)` var riktige.
 # Results
 
 # Discussion
-
+Ok, da var  det på tide med diskusjonen da. Og det er jo så mye å diskutere [@cerasoliPerformanceIncentivesNeeds2016; @christianWorkEngagementQuantitative2011]. F.eks. vil jeg gjerne påpeke at denne diskusjonen diskuterer mange temaer som er verdt å diskutere [@langfredEffectsTaskAutonomy2004]. Så da tenker jeg vi legger den død [@demeroutiProductiveCounterproductiveJob2015]. 
 
 \newpage
 
